@@ -1,0 +1,38 @@
+export default [
+    {
+        id: 1,
+        image:"./images/profile-1.jpg",
+        name: "Laila Wardak",
+        username: "lailawardak",
+        time: "6",
+        timeType: "d",
+        postText: "What is a good sentence for peace? There was a peace of 50 years before war broke out again. Peace and order were finally restored in the town. After years of therapy, he has finally achieved an inner peace. He is searching for inner peace.",
+    },
+    {
+        id: 2,
+        image:"./images/profile-2.jpg",
+        name: "Attal Mirkehl",
+        username: "mirkhel",
+        time: "5",
+        timeType: "h",
+        postText: "Nature, in the broadest sense, is the physical world or universe.can refer to the phenomena of the physical world, and also to life in general. The study of nature is a large, if not the only, part of science.",
+    },
+    {
+        id: 3,
+        image:"./images/profile-3.jpg",
+        name: "Attal Wadan",
+        username: "wadan",
+        time: "1",
+        timeType: "m",
+        postText: "Education is the transmission of knowledge, skills, and character traits. There are many debates about its precise definition, for example, about which aims it tries to achieve.",
+    },
+    {
+        id: 4,
+        image:"./images/profile-4.jpg",
+        name: "Ahmad Kham",
+        username: "ahmadkhan",
+        time: "10",
+        timeType: "s",
+        postText: "Technology is the application of knowledge for achieving practical goals in a reproducible way. ",
+    },
+]
